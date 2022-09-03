@@ -1,0 +1,2 @@
+# 2022_GDSC_INHA_AI
+2022년 GDSC INHA AI 스터디 그룹
